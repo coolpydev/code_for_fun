@@ -23,8 +23,7 @@ Feel free to open up an issue if you wanna contribute or know something about th
 
 Enjoy!
 
-
-##Update 
+## Update!
 
 Model efficiency improved to 91.112%.
 
