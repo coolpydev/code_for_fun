@@ -1,6 +1,6 @@
 ## Automating the extraction of study notes from `WhatsApp Images`
 
-We all end up with hell lot of _images to be deleted_ at the end of each semester. I've trained a CNN model to predict such images and extract them out of WhatsApp Images directory :)
+A simple project to delete unnecessary images downloaded by WhatsApp using Keras and Numpy.  I've trained a CNN model to predict such images and extract them out of WhatsApp Images directory :)
 
 like this: 
 
