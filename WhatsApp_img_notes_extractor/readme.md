@@ -1,4 +1,4 @@
-## Automate extraction of study notes from `WhatsApp Images`
+## Automating the extraction of study notes from `WhatsApp Images`
 
 We all end up with hell lot of _images to be deleted_ at the end of each semester. I've trained a CNN model to predict such images and extract them out of WhatsApp Images directory :)
 
@@ -22,4 +22,9 @@ I've trained the model on about 1000 images and using Keras' data augmentation p
 Feel free to open up an issue if you wanna contribute or know something about this project.
 
 Enjoy!
+
+
+##Update 
+
+Model efficiency improved to 91.112%.
 
