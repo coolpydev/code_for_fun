@@ -25,5 +25,5 @@ Enjoy!
 
 ## Update!
 
-Model efficiency improved to 91.112%.
+Model efficiency improved to 91.112%. And I'm actively using it on my smartphone.
 
